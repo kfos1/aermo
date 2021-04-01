@@ -1,0 +1,3 @@
+cd aermo
+cgmod +x*aerm.py
+python2 aermo.py
